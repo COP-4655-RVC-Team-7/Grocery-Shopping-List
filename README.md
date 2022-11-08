@@ -1,6 +1,3 @@
-Original App Design Project - README Template
-===
-
 # Grocery Shopping List
 
 ## Table of Contents
