@@ -30,11 +30,11 @@
 
 **Required Must-have Stories**
 
-* User can add items
-* User can remove items
-* User can add an infinite amount of items
-* User can name the list
-* User can create multiple lists
+[x] User can add items
+[x] User can remove items
+[x] User can add an infinite amount of items
+[x] User can name the list
+[x] User can create multiple lists
 
 
 ### 2. Screen Archetypes
