@@ -91,4 +91,4 @@
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://github.com/nlagu012/COP4665-Twitter/blob/6073f08d6fa64f94c7306e9b42cdd203bdc7aa80/Twitter1.gif" width=250><br>
+<img src="https://github.com/COP-4655-RVC-Team-7/Grocery-Shopping-List/blob/005bf166272bccf6c6fd2a9833eb86f0b56b05de/mobileProj.gif" width=250><br>
