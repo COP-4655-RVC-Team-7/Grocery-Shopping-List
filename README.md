@@ -34,8 +34,8 @@
 - [x] User can remove items
 - [x] User can add an infinite amount of items
 - [x] User can name the list
-- [ ] User can create multiple lists
-- [ ] User can go through different categories
+- [x] User can create multiple lists
+- [x] User can go through different categories
 
 
 ### 2. Screen Archetypes
