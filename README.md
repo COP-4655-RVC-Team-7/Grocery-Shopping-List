@@ -88,7 +88,15 @@
 - [Create basic snippets for each Parse network request]
 
 
-## Video Walkthrough
+## Final Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src="https://github.com/COP-4655-RVC-Team-7/Grocery-Shopping-List/blob/9f1d4fc4fc553e1e00aa672c601af12b85264da4/GROCERY-APP.gif" width=250><br>
+
+
+
+## Progress Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
